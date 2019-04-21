@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851636050706",
+    "firebase_url": "https://tpdmu3p2-delarosa.firebaseio.com",
+    "project_id": "tpdmu3p2-delarosa",
+    "storage_bucket": "tpdmu3p2-delarosa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851636050706:android:4f9452c245173110",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_practica2_delarosaguerrero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851636050706-k222c0o6lh0uvdtqqo8k5b35f4q1f32r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAVkyNDFnQW5IPoU9Ka6CCG--ARoDnS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851636050706-k222c0o6lh0uvdtqqo8k5b35f4q1f32r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
